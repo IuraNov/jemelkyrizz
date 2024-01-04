@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704380751
+icon.svg::CompressedTexture2D::825929015236123636::1704380483::1704380716::1::::<><>::
+::res://Scenes/::1704380483
+main.tscn::PackedScene::7081111334541056539::1704380755::0::1::::<><>::uid://dhufjrprnpglf::::res://Scenes/Player.tscn<>res://Scenes/Player.gd<>uid://csyaox6c7qvlv::::res://Scenes/Tiles.tscn
+Player.gd::GDScript::-1::1704380483::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::7692192085595091899::1704380483::0::1::::<><>::uid://l1c6vlayja8k::::res://icon.svg
+Tiles.tscn::PackedScene::6085811876143165535::1704380483::0::1::::<><>::uid://l1c6vlayja8k::::res://icon.svg
+::res://Scripts/::1704380751
